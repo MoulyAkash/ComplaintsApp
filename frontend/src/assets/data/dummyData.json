@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "block": "Abdul Kalam Lecture Hall Complex",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 2,
+    "block": "RLHC",
+    "floor": 2,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Fan Regulators Not Working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Verified"
+  },
+  {
+    "id": 3,
+    "block": "CB",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Resolved"
+  },
+  {
+    "id": 4,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Resolved"
+  },
+  {
+    "id": 5,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Unable to resolve"
+  },
+  {
+    "id": 6,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 7,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 8,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 9,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 10,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 11,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 12,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 13,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 14,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 15,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 16,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 17,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 18,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  },
+  {
+    "id": 19,
+    "block": "RLHC",
+    "floor": 1,
+    "room": 102,
+    "type": "Electrician",
+    "complaint": "Lights not working",
+    "registeredTime": "6/9/22 07:00 PM",
+    "updatedTime": "6/9/22 07:00 PM",
+    "status": "Registered"
+  }
+]
